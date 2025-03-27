@@ -16,5 +16,5 @@
 
 ### Scenes
 
-<img src="Docs/Screenshot_20250326_103434_ARFoundationSamples.jpg" style="width:360px"></img>
-<img src="Docs/Screenshot_20250326_014323_ARFoundationSamples.jpg" style="width:360px"></img>
+<img src="../Docs/Screenshot_20250326_103434_ARFoundationSamples.jpg" style="width:360px"></img>
+<img src="../Docs/Screenshot_20250326_014323_ARFoundationSamples.jpg" style="width:360px"></img>
