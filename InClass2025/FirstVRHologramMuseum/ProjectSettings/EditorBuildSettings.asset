@@ -5,15 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/FirstSceneUsingTemplate.unity
-    guid: 457f6d9cb5c24254d92c0af0afd14e9a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SecondSceneUsingLocomotionExamples.unity
     guid: d3787753a62e2bc438462268210dc532
   - enabled: 1
     path: Assets/Scenes/SecondScene_AddInteraction.unity
     guid: 07b9bc0dff8336d489cef927a9aedb24
+  - enabled: 1
+    path: Assets/Scenes/SecondSceneUsingTemplate.unity
+    guid: 08b6d9729f1a3564f9467fca4f63d5c5
+  - enabled: 1
+    path: Assets/Scenes/ThirdScene_AddInteraction.unity
+    guid: a3e3da70575c05e45b4f0e280210bf35
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 006ce97c70ac12d48af7268b7d32bd0a,
       type: 2}
